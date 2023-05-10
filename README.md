@@ -13,6 +13,9 @@ python3 main.py
  
  ```
  ```
- pip 3 install pygame
+ pip3 install pygame
  ```
  ![game_pic](https://github.com/doilonar/Pygame_3D/assets/31927364/dc75da65-39c7-434a-833f-f3b9287eeaa4)
+
+## Tutorial!
+https://www.youtube.com/watch?v=ECqUrT7IdqQ
