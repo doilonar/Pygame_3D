@@ -1,7 +1,7 @@
 # Pygame_3D
 ## What is this?
 Is a 3D game make in Python with Pygame.
-##What is your mission?
+## What is your mission?
 Is to kill all the npcs. The map is generated random with numpy. Have fun!!!
 ## How to run the game?
 ```
